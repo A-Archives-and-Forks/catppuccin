@@ -1210,6 +1210,7 @@ Catppuccin is available for various apps and in different formats. Here is a lis
 - [Tofi](https://github.com/catppuccin/tofi)
 - [Ueli](https://github.com/catppuccin/ueli)
 - [Ulauncher](https://github.com/catppuccin/ulauncher)
+- [wofi](https://github.com/catppuccin/wofi)
 
 </details>
 <details open>
