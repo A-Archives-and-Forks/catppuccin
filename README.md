@@ -1582,6 +1582,7 @@ If you're making an application or tool using our palette, please let us know by
 - [n-recipe](https://play.google.com/store/apps/details?id=com.a3chron.nrecipe) - Recipe book for Android with Catppuccin & Material You themes
 - [Bookbank](https://github.com/alwaysnur/bookbank) - A self-hosted audiobook and podcast media server.
 - [Yaw](https://yaw.sh) - A modern SSH terminal with Catppuccin Mocha as its default theme.
+- [Julia](https://destructor-ben.github.io/julia/) - A WebGL based fractal renderer.
 <!-- AUTOGEN:SHOWCASE END -->
 
 &nbsp;
